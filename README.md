@@ -1,4 +1,4 @@
-<h1 align="center">Projeto - Monitoramento</h1>
+<h1 align="center">Monitoramento</h1>
 
 <h2>Objetivo:</h2>
 
